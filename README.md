@@ -40,3 +40,7 @@ Browse to [http://localhost:4000](http://localhost:4000)
 
 Issues and pull requests are welcome on [GitHub](
 https://github.com/Hacker0x01/hacker101)!
+
+## Badge
+
+[![Known Vulnerabilities](https://snyk.io/test/github/kadirselcuk/hacker101/badge.svg?targetFile=Gemfile.lock)](https://snyk.io/test/github/kadirselcuk/hacker101?targetFile=Gemfile.lock)
