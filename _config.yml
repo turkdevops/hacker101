@@ -48,3 +48,5 @@ exclude:
   ]
 
 # flag{git_sh!t_d0ne}
+
+theme: jekyll-theme-slate
